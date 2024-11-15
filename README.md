@@ -1,5 +1,7 @@
 # Static-S3-Website-with-Terraform.
 
+![AWS_S3_Bucket](https://github.com/user-attachments/assets/7e258ff4-292e-40c0-ab33-a279fd4c00fc)
+
 In this post, I walk through deploying a static S3 website on AWS using Terraform, assessing security with Prowler, and highlighting key takeaways.
 
 Day 1 of #90 - Days of Cloud Security.
