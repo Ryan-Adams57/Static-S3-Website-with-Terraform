@@ -4,6 +4,8 @@
 
 ![AWS_Region_Resource](https://github.com/user-attachments/assets/434d1aa8-de46-4f96-8eeb-787984b92eea)
 
+![AWS Count of Findings by Severity](https://github.com/user-attachments/assets/95a36cf6-b5fe-4afe-b1ce-28ff46c27faa)
+
 In this post, I walk through deploying a static S3 website on AWS using Terraform, assessing security with Prowler, and highlighting key takeaways.
 
 Day 1 of #90 - Days of Cloud Security.
